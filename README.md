@@ -18,7 +18,7 @@
     | OS      | Node                                       |
     |---------|--------------------------------------------|
     | Windows | `winget install OpenJS.NodeJS.LTS`         |
-    | macOS   | `brew install node@18`                     |
+    | macOS   | `brew install node@latest`                 |
 
 ### Files System ###
 
