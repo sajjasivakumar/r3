@@ -4,12 +4,12 @@
 
     API Test Automation build with
 
-    | Tools & Technologies |
-    |----------------------|
-    | Cypress 		       |
-    | BDD 			       |
-    | Java Script	       |
-    | POM			       |
+    | Tools & Technologies    |
+    |---------------------    |
+    | Cypress                 |
+    | BDD                     |
+    | Java Script             |
+    | POM                     |
 
 ### Prerequisites ###
 
@@ -20,7 +20,7 @@
     | Windows | `winget install OpenJS.NodeJS.LTS`         |
     | macOS   | `brew install node@18`                     |
 
-### Files System###
+### Files System ###
 
     -- cypress
         -- e2e (Test Inside e2e)
