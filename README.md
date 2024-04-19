@@ -2,7 +2,7 @@
 
 ### API-Automation ###
 
-API Test Automation build with
+    API Test Automation build with
 
     | Tools & Technologies |
     |----------------------|
@@ -21,6 +21,7 @@ API Test Automation build with
     | macOS   | `brew install node@18`                     |
 
 ### Files System###
+
     -- cypress
         -- e2e (Test Inside e2e)
             -- features 
@@ -37,7 +38,7 @@ API Test Automation build with
 
 ### How Do I Get Set Up? ###
 
-    * Link : https://bitbucket.org/netfoundry/console-ui-automation
+    * Link : https://github.com/sajjasivakumar/r3.git
     * Do git clone into your machine
 
 ### Contribution Guidelines ###
@@ -127,5 +128,4 @@ Total Count:
 
 ### Who do I talk to? ###
 
-    * Repo owner or admin siva.sajja@netfoundry.io
-    * Other community or team contact testautomation channel
+    * Repo owner or admin siva.sajja68@gmail.com
